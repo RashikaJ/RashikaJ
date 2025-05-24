@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashika Jain</h1>
-<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | Python & SQL Developer</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast </h3>
 
-- 🎓 Computer Science graduate with a minor in Mathematics  
+- 🎓 Computer Science graduate with a minor in Mathematics and Business Analytics 
 - 📊 Passionate about solving real-world problems through data  
 - 🧠 Skilled in Python, SQL, Power BI, Excel, and machine learning  
 - 🌱 Currently building projects in analytics, data visualization, and ML  
